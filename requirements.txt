@@ -1,0 +1,8 @@
+picovoice==3.0.2
+pvrecorder==1.2.2
+smbus2==0.4.3
+pillow==10.3.0
+st7735==1.0.0
+gpio==1.0.0
+gpiodevice==0.0.5
+
